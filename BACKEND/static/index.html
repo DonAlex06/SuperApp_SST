@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SuperApp SST · Salud Ocupacional</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<!-- ================= LOGIN ================= -->
+<div id="login-screen" class="login-screen">
+  <div class="login-card">
+    <h1>SuperApp SST</h1>
+    <div class="logo-container">
+    <img src="/logo.png" alt="Logo SuperApp SST" class="logo">
+    </div>
+    <form id="login-form">
+      <div class="field">
+        <label for="username">Usuario</label>
+        <input type="text" id="username" autocomplete="username" required>
+      </div>
+      <div class="field">
+        <label for="password">Contraseña</label>
+        <input type="password" id="password" autocomplete="current-password" required>
+      </div>
+      <button type="submit" class="btn-primary">Iniciar sesión</button>
+      <div id="login-error" class="login-error"></div>
+    </form>
+    <div class="test-creds">
+      Credenciales de prueba (rellenar y luego pulsar "Iniciar sesión"):
+      <button type="button" id="fill-hrbp">HRBP / Líder de Área — hrbp.lider</button>
+      <button type="button" id="fill-medico">Médico Ocupacional / Admin SST — medico.sst</button>
+    </div>
+  </div>
+</div>
+
+<!-- ================= APP ================= -->
+<div id="app-shell" class="app-shell">
+  <header class="topbar">
+    <div>
+      <div class="brand">SUPERAPP SST</div>
+      <h1>Salud y Seguridad en el Trabajo</h1>
+    </div>
+    <div class="user-pill">
+      <span id="user-nombre"></span>
+      <span id="role-badge" class="role-badge"></span>
+      <button id="logout-btn" class="logout-btn">Cerrar sesión</button>
+      <img src="/assets/logo.png" alt="Logo SST" class="topbar-logo">   <!-- LÍNEA NUEVA -->
+    </div>
+  </header>
+
+  <main>
+    <div id="as-of" class="as-of"></div>
+
+    <div class="kpi-row">
+      <div class="kpi"><div class="num" id="kpi-empleados">—</div><div class="label">Colaboradores activos</div></div>
+      <div class="kpi"><div class="num" id="kpi-activos">—</div><div class="label">Casos de ausentismo activos</div></div>
+      <div class="kpi"><div class="num" id="kpi-cerrados">—</div><div class="label">Casos cerrados</div></div>
+      <div class="kpi risk"><div class="num" id="kpi-alertas">—</div><div class="label">Alertas de Riesgo Alto</div></div>
+    </div>
+
+    <section class="panel">
+      <h2>Ausentismo por área</h2>
+      <div class="subtitle">Métricas agregadas — visibles para todos los roles.</div>
+      <table>
+        <thead><tr><th>Área</th><th>Empleados</th><th>% Ausentismo</th><th>Casos activos</th><th>Casos cerrados</th><th>Alertas</th></tr></thead>
+        <tbody id="areas-tbody"></tbody>
+      </table>
+    </section>
+
+    <section class="panel">
+      <h2>Motor de Alertas · Riesgo Alto</h2>
+      <div class="subtitle">Empleado marcado automáticamente si acumula &gt;2 incapacidades en 60 días, o presenta síntomas recurrentes en la encuesta de salud.</div>
+      <div id="alertas-container"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Casos de ausentismo (incapacidades)</h2>
+      <div id="casos-rbac-note" class="rbac-note"></div>
+      <table>
+        <thead id="casos-thead"></thead>
+        <tbody id="casos-tbody"></tbody>
+      </table>
+    </section>
+
+    <section class="panel" id="admin-panel" style="display:none">
+      <h2>Arquitectura &amp; Trazabilidad ETL</h2>
+      <div class="subtitle">Última ejecución del pipeline de ingesta sobre los 3 CSV crudos.</div>
+      <div class="admin-actions">
+        <button id="btn-run-etl" class="btn-small">Re-ejecutar ETL + Motor de Riesgo</button>
+      </div>
+      <div id="etl-log-container"></div>
+    </section>
+  </main>
+</div>
+
+<script src="/app.js"></script>
+</body>
+</html>

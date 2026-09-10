@@ -1,0 +1,351 @@
+﻿COD_REGISTRO,EMPLEADO_REF,FECHA_INICIO_INCAPACIDAD,DIAS_AUSENCIA,CODIGO_CIE10,DIAGNOSTICO_MEDICO_CONFIDENCIAL,CATEGORIA_SALUD,ENTIDAD_EXPEDIDORA
+INC-0001,EMP-006,11-01-2025,5,F32.9,Episodio depresivo no especificado,Salud Mental,Sanitas
+INC-0002,EMP-060,2025-11-07,3,G43.9,Migraña no especificada,Neurologico,Particular
+INC-0003,EMP-004,02-01-2026,30,K29.7,Gastritis no especificada,Gastrointestinal,EPS Sura
+INC-0004,EMP-090,2026-02-05,15,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Particular
+INC-0005,EMP-083,2025/02/24,2 dias,K29.7,Gastritis no especificada,Gastrointestinal,SURA EPS
+INC-0006,EMP-020,2026/02/18,15,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Compensar
+INC-0007,EMP-032,19-08-2025,8,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Compensar
+INC-0008,EMP-004,07-09-2025,3,G43.9,Migraña no especificada,Neurologico,Particular
+INC-0009,EMP-090,2025-04-08,3 Días,M54.5,Lumbago no especificado,Musculoesqueletico,Sanitas
+INC-0010,EMP-089,2026-02-10,2 dias,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Compensar
+INC-0011,EMP-085,29/09/2025,3 Días,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,SURA EPS
+INC-0012,EMP-059,03-03-2025,5,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,SURA EPS
+INC-0013,EMP-024,06/01/2026,8,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Compensar
+INC-0014,EMP-023,2025-01-24,8,F41.1,Trastorno de ansiedad generalizada,Salud Mental,
+INC-0015,EMP-097,2025/05/26,15,M54.5,Lumbago no especificado,Musculoesqueletico,Compensar
+INC-0016,EMP-062,2025-09-09,30,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,
+INC-0017,EMP-073,2025/03/02,5,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Particular
+INC-0018,EMP-049,2025/10/29,8,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,SURA EPS
+INC-0019,EMP-013,19/04/2025,,F32.9,Episodio depresivo no especificado,Salud Mental,EPS Sura
+INC-0020,EMP-115,17-01-2025,8,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS Sura
+INC-0021,EMP-088,29-10-2025,,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Compensar
+INC-0022,EMP-106,19/01/2026,15,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS SURA
+INC-0023,EMP-035,2025-02-11,2 dias,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS Sura
+INC-0024,EMP-012,25/02/2026,,M54.5,Lumbago no especificado,Musculoesqueletico,Particular
+INC-0025,EMP-084,2025/10/27,3,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Compensar
+INC-0026,EMP-053,2025/06/18,3,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,
+INC-0027,EMP-098,11/06/2025,2,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Particular
+INC-0028,EMP-001,28-01-2025,30,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS SURA
+INC-0029,EMP-109,2025/08/13,8,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Sanitas
+INC-0030,EMP-091,2025-07-28,3 Días,M54.5,Lumbago no especificado,Musculoesqueletico,EPS Sura
+INC-0031,EMP-083,18/09/2025,8,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS SURA
+INC-0032,EMP-071,18-09-2025,15,F32.9,Episodio depresivo no especificado,Salud Mental,EPS SURA
+INC-0033,EMP-044,25/05/2025,1,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,
+INC-0034,EMP-020,2025/06/20,15,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,SURA EPS
+INC-0035,EMP-031,23/01/2025,30,F32.9,Episodio depresivo no especificado,Salud Mental,EPS SURA
+INC-0036,EMP-085,19-01-2025,2 dias,F41.1,Trastorno de ansiedad generalizada,Salud Mental,
+INC-0037,EMP-057,05-01-2026,1,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS SURA
+INC-0038,EMP-034,11/02/2025,,K29.7,Gastritis no especificada,Gastrointestinal,Compensar
+INC-0039,EMP-081,2025-01-19,3 Días,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Sanitas
+INC-0040,EMP-096,2025-12-27,,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,EPS Sura
+INC-0041,EMP-042,2025/07/11,15,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,
+INC-0042,EMP-024,15-07-2025,15,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,SURA EPS
+INC-0043,EMP-033,28-05-2025,2 dias,M54.5,Lumbago no especificado,Musculoesqueletico,Compensar
+INC-0044,EMP-082,04-06-2025,2 dias,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS SURA
+INC-0045,EMP-074,2025/01/12,8,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,SURA EPS
+INC-0046,EMP-007,02-02-2026,8,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Particular
+INC-0047,EMP-033,2025-02-19,,F41.1,Trastorno de ansiedad generalizada,Salud Mental,SURA EPS
+INC-0048,EMP-017,2026/01/18,15,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Compensar
+INC-0049,EMP-068,2025/05/12,3,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,
+INC-0050,EMP-015,22-01-2026,3,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,
+INC-0051,EMP-072,2025-05-16,1,K29.7,Gastritis no especificada,Gastrointestinal,Particular
+INC-0052,EMP-049,12-12-2025,2,G43.9,Migraña no especificada,Neurologico,Compensar
+INC-0053,EMP-079,26/08/2025,,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,EPS Sura
+INC-0054,EMP-039,01-05-2025,2,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,SURA EPS
+INC-0055,EMP-070,2025-12-02,30,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Compensar
+INC-0056,EMP-005,16-08-2025,2 dias,F32.9,Episodio depresivo no especificado,Salud Mental,Particular
+INC-0057,EMP-083,2025-04-08,8,K29.7,Gastritis no especificada,Gastrointestinal,Sanitas
+INC-0058,EMP-083,07/02/2026,1,M54.5,Lumbago no especificado,Musculoesqueletico,EPS Sura
+INC-0059,EMP-098,18-06-2025,5,F32.9,Episodio depresivo no especificado,Salud Mental,Sanitas
+INC-0060,EMP-017,2025-12-05,2,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Particular
+INC-0061,EMP-109,2026/01/15,3,M54.5,Lumbago no especificado,Musculoesqueletico,
+INC-0062,EMP-047,15-09-2025,2 dias,,Infeccion aguda de las vias respiratorias superiores,Respiratorio,
+INC-0063,EMP-085,2025-01-16,,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS Sura
+INC-0064,EMP-063,11/02/2025,2,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,SURA EPS
+INC-0065,EMP-075,02/11/2025,30,G43.9,Migraña no especificada,Neurologico,SURA EPS
+INC-0066,EMP-015,20-08-2025,30,F32.9,Episodio depresivo no especificado,Salud Mental,SURA EPS
+INC-0067,EMP-013,11/05/2025,,G43.9,Migraña no especificada,Neurologico,EPS Sura
+INC-0068,EMP-011,20-02-2026,15,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Compensar
+INC-0069,EMP-086,2026/01/20,,G43.9,Migraña no especificada,Neurologico,Particular
+INC-0070,EMP-040,2025/12/03,3,F32.9,Episodio depresivo no especificado,Salud Mental,Compensar
+INC-0071,EMP-015,2025-10-15,30,F32.9,Episodio depresivo no especificado,Salud Mental,EPS Sura
+INC-0072,EMP-024,2025-06-29,15,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS Sura
+INC-0073,EMP-019,18-01-2026,2,M54.5,Lumbago no especificado,Musculoesqueletico,Compensar
+INC-0074,EMP-093,21-03-2025,1,,Infeccion aguda de las vias respiratorias superiores,Respiratorio,EPS SURA
+INC-0075,EMP-085,20-05-2025,30,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Compensar
+INC-0076,EMP-087,08/12/2025,3 Días,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS Sura
+INC-0077,EMP-027,27/01/2026,3,F32.9,Episodio depresivo no especificado,Salud Mental,EPS SURA
+INC-0078,EMP-023,14/10/2025,3 Días,F32.9,Episodio depresivo no especificado,Salud Mental,EPS Sura
+INC-0079,EMP-059,2025/08/08,15,G43.9,Migraña no especificada,Neurologico,EPS Sura
+INC-0080,EMP-042,2025/02/15,15,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Particular
+INC-0081,EMP-011,24/04/2025,15,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Particular
+INC-0082,EMP-066,08-01-2026,15,G43.9,Migraña no especificada,Neurologico,Particular
+INC-0083,EMP-020,2026/01/31,3,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,SURA EPS
+INC-0084,EMP-073,11-06-2025,,G43.9,Migraña no especificada,Neurologico,
+INC-0085,EMP-036,07/02/2025,3 Días,,Migraña no especificada,Neurologico,Compensar
+INC-0086,EMP-010,2025/11/01,15,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,EPS Sura
+INC-0087,EMP-058,2025/11/06,15,F32.9,Episodio depresivo no especificado,Salud Mental,
+INC-0088,EMP-044,27-11-2025,3 Días,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Particular
+INC-0089,EMP-067,2025/05/25,15,G43.9,Migraña no especificada,Neurologico,
+INC-0090,EMP-081,2025/02/18,15,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Particular
+INC-0091,EMP-020,2025/06/08,15,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Particular
+INC-0092,EMP-049,2025-12-10,3,G43.9,Migraña no especificada,Neurologico,Compensar
+INC-0093,EMP-040,2026/01/28,15,F32.9,Episodio depresivo no especificado,Salud Mental,Compensar
+INC-0094,EMP-013,22-06-2025,,M54.5,Lumbago no especificado,Musculoesqueletico,SURA EPS
+INC-0095,EMP-099,2025/01/23,2 dias,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Particular
+INC-0096,EMP-037,01-10-2025,5,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,
+INC-0097,EMP-025,29/01/2026,2 dias,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Sanitas
+INC-0098,EMP-026,2025/01/27,8,F41.1,Trastorno de ansiedad generalizada,Salud Mental,
+INC-0099,EMP-067,26-01-2026,2,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS SURA
+INC-0100,EMP-012,2025-06-28,2 dias,F32.9,Episodio depresivo no especificado,Salud Mental,EPS SURA
+INC-0101,EMP-011,20/02/2025,15,M54.5,Lumbago no especificado,Musculoesqueletico,
+INC-0102,EMP-061,2025-08-18,2 dias,,Trastorno de ansiedad generalizada,Salud Mental,Sanitas
+INC-0103,EMP-071,02/02/2026,2,K29.7,Gastritis no especificada,Gastrointestinal,SURA EPS
+INC-0104,EMP-080,2025-11-02,2 dias,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Compensar
+INC-0105,EMP-112,02-08-2025,15,F32.9,Episodio depresivo no especificado,Salud Mental,EPS Sura
+INC-0106,EMP-068,2025-08-29,30,M54.5,Lumbago no especificado,Musculoesqueletico,EPS Sura
+INC-0107,EMP-046,2026-01-11,5,G43.9,Migraña no especificada,Neurologico,EPS Sura
+INC-0108,EMP-046,2025/08/26,,F41.1,Trastorno de ansiedad generalizada,Salud Mental,
+INC-0109,EMP-107,22/01/2025,5,M54.5,Lumbago no especificado,Musculoesqueletico,Particular
+INC-0110,EMP-061,2025-07-02,8,F32.9,Episodio depresivo no especificado,Salud Mental,Compensar
+INC-0111,EMP-056,23-06-2025,30,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Particular
+INC-0112,EMP-035,09-08-2025,2,K29.7,Gastritis no especificada,Gastrointestinal,SURA EPS
+INC-0113,EMP-038,2025/12/20,3,,Gastritis no especificada,Gastrointestinal,Compensar
+INC-0114,EMP-079,2026-02-10,,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,
+INC-0115,EMP-096,2025/11/08,3,M54.5,Lumbago no especificado,Musculoesqueletico,Compensar
+INC-0116,EMP-047,2025/03/20,15,M54.5,Lumbago no especificado,Musculoesqueletico,Particular
+INC-0117,EMP-018,29/11/2025,15,K29.7,Gastritis no especificada,Gastrointestinal,EPS SURA
+INC-0118,EMP-067,01/02/2026,8,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,SURA EPS
+INC-0119,EMP-063,20-08-2025,2,F41.1,Trastorno de ansiedad generalizada,Salud Mental,SURA EPS
+INC-0120,EMP-041,05/10/2025,3 Días,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,SURA EPS
+INC-0121,EMP-082,2025-04-25,3 Días,G43.9,Migraña no especificada,Neurologico,EPS SURA
+INC-0122,EMP-004,16-02-2026,2 dias,G43.9,Migraña no especificada,Neurologico,SURA EPS
+INC-0123,EMP-093,2025-10-22,30,K29.7,Gastritis no especificada,Gastrointestinal,EPS SURA
+INC-0124,EMP-088,24-11-2025,3 Días,F41.1,Trastorno de ansiedad generalizada,Salud Mental,
+INC-0125,EMP-008,26-03-2025,8,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Particular
+INC-0126,EMP-037,22/11/2025,5,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Particular
+INC-0127,EMP-083,04/12/2025,3,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS Sura
+INC-0128,EMP-119,2025/04/18,,,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Particular
+INC-0129,EMP-038,2025/05/06,2 dias,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS SURA
+INC-0130,EMP-054,07-11-2025,15,F32.9,Episodio depresivo no especificado,Salud Mental,
+INC-0131,EMP-045,2025-09-21,15,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Sanitas
+INC-0132,EMP-019,2025/11/12,30,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Compensar
+INC-0133,EMP-074,2025/09/13,3,F32.9,Episodio depresivo no especificado,Salud Mental,EPS SURA
+INC-0134,EMP-065,26/10/2025,5,F32.9,Episodio depresivo no especificado,Salud Mental,
+INC-0135,EMP-084,2025-01-05,3 Días,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,
+INC-0136,EMP-052,19-10-2025,1,K29.7,Gastritis no especificada,Gastrointestinal,EPS SURA
+INC-0137,EMP-098,2025/02/19,3,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Compensar
+INC-0138,EMP-097,2025-01-21,3 Días,K29.7,Gastritis no especificada,Gastrointestinal,Particular
+INC-0139,EMP-059,10/11/2025,15,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Compensar
+INC-0140,EMP-076,2025/06/03,15,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS SURA
+INC-0141,EMP-075,31/08/2025,15,M54.5,Lumbago no especificado,Musculoesqueletico,Particular
+INC-0142,EMP-030,2025/09/26,3,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,SURA EPS
+INC-0143,EMP-015,03-08-2025,15,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Particular
+INC-0144,EMP-061,23-09-2025,3,M54.5,Lumbago no especificado,Musculoesqueletico,EPS SURA
+INC-0145,EMP-041,25/06/2025,3 Días,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,
+INC-0146,EMP-089,07/05/2025,5,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Compensar
+INC-0147,EMP-099,2025/06/12,2 dias,F32.9,Episodio depresivo no especificado,Salud Mental,Compensar
+INC-0148,EMP-037,24/02/2026,30,K29.7,Gastritis no especificada,Gastrointestinal,Compensar
+INC-0149,EMP-115,20-04-2025,2 dias,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Compensar
+INC-0150,EMP-018,26-01-2025,5,F32.9,Episodio depresivo no especificado,Salud Mental,SURA EPS
+INC-0151,EMP-061,09-10-2025,1,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS SURA
+INC-0152,EMP-084,2025-05-27,15,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Particular
+INC-0153,EMP-095,02-08-2025,3,,Lumbago no especificado,Musculoesqueletico,
+INC-0154,EMP-064,05/01/2025,1,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Compensar
+INC-0155,EMP-059,2025/09/16,3,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,SURA EPS
+INC-0156,EMP-059,13/01/2026,1,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Sanitas
+INC-0157,EMP-079,21/09/2025,30,K29.7,Gastritis no especificada,Gastrointestinal,Sanitas
+INC-0158,EMP-062,2025/05/14,1,F32.9,Episodio depresivo no especificado,Salud Mental,Compensar
+INC-0159,EMP-075,01/12/2025,8,M54.5,Lumbago no especificado,Musculoesqueletico,Compensar
+INC-0160,EMP-021,24/11/2025,2,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS SURA
+INC-0161,EMP-020,2025/12/26,30,G43.9,Migraña no especificada,Neurologico,
+INC-0162,EMP-032,17/08/2025,3 Días,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Particular
+INC-0163,EMP-065,2025/06/17,3,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS Sura
+INC-0164,EMP-066,2025/03/09,2 dias,M54.5,Lumbago no especificado,Musculoesqueletico,
+INC-0165,EMP-040,2026-02-23,8,K29.7,Gastritis no especificada,Gastrointestinal,Compensar
+INC-0166,EMP-102,17/01/2025,2 dias,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,SURA EPS
+INC-0167,EMP-083,2025/08/18,30,G43.9,Migraña no especificada,Neurologico,Particular
+INC-0168,EMP-018,2025/04/02,2,G43.9,Migraña no especificada,Neurologico,EPS Sura
+INC-0169,EMP-110,2026/01/04,,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Compensar
+INC-0170,EMP-020,2026/02/19,1,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Sanitas
+INC-0171,EMP-120,2025-11-03,2 dias,,Lumbago no especificado,Musculoesqueletico,Particular
+INC-0172,EMP-028,15/09/2025,3,M54.5,Lumbago no especificado,Musculoesqueletico,Particular
+INC-0173,EMP-077,04-06-2025,5,G43.9,Migraña no especificada,Neurologico,Compensar
+INC-0174,EMP-008,2025/12/14,,,Trastorno de ansiedad generalizada,Salud Mental,SURA EPS
+INC-0175,EMP-086,29-07-2025,30,G43.9,Migraña no especificada,Neurologico,Sanitas
+INC-0176,EMP-029,2025/01/30,2 dias,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Sanitas
+INC-0177,EMP-033,2025-07-09,2 dias,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,EPS SURA
+INC-0178,EMP-087,07-04-2025,2,M54.5,Lumbago no especificado,Musculoesqueletico,EPS Sura
+INC-0179,EMP-028,05-05-2025,2 dias,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Compensar
+INC-0180,EMP-049,14/05/2025,8,G43.9,Migraña no especificada,Neurologico,SURA EPS
+INC-0181,EMP-061,09/07/2025,5,G43.9,Migraña no especificada,Neurologico,Sanitas
+INC-0182,EMP-003,20-03-2025,8,K29.7,Gastritis no especificada,Gastrointestinal,EPS SURA
+INC-0183,EMP-071,2026/01/26,8,G43.9,Migraña no especificada,Neurologico,Sanitas
+INC-0184,EMP-094,2026/01/04,3,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS Sura
+INC-0185,EMP-103,31-07-2025,1,M54.5,Lumbago no especificado,Musculoesqueletico,EPS Sura
+INC-0186,EMP-028,2025/11/13,1,,Migraña no especificada,Neurologico,EPS SURA
+INC-0187,EMP-109,2025/09/15,1,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS Sura
+INC-0188,EMP-068,27/09/2025,15,F32.9,Episodio depresivo no especificado,Salud Mental,Compensar
+INC-0189,EMP-052,2025-06-03,5,F32.9,Episodio depresivo no especificado,Salud Mental,EPS Sura
+INC-0190,EMP-052,2025-11-23,1,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,SURA EPS
+INC-0191,EMP-043,22-01-2025,3 Días,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,EPS SURA
+INC-0192,EMP-103,2025-10-16,3 Días,S93.4,RESERVADO,Trauma / Osteomuscular,Sanitas
+INC-0193,EMP-076,03-06-2025,2,K29.7,Gastritis no especificada,Gastrointestinal,SURA EPS
+INC-0194,EMP-070,14/09/2025,2,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Compensar
+INC-0195,EMP-078,16/01/2025,15,K29.7,Gastritis no especificada,Gastrointestinal,Particular
+INC-0196,EMP-049,31/01/2026,2,K29.7,Gastritis no especificada,Gastrointestinal,Sanitas
+INC-0197,EMP-049,12/06/2025,30,,Trastorno de ansiedad generalizada,Salud Mental,Compensar
+INC-0198,EMP-098,2025/04/06,2,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS Sura
+INC-0199,EMP-012,03/11/2025,15,,Infeccion aguda de las vias respiratorias superiores,Respiratorio,
+INC-0200,EMP-011,24-09-2025,15,F32.9,Episodio depresivo no especificado,Salud Mental,Compensar
+INC-0201,EMP-064,2025/05/22,30,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Sanitas
+INC-0202,EMP-093,24-02-2025,2 dias,F32.9,Episodio depresivo no especificado,Salud Mental,Particular
+INC-0203,EMP-049,2025/06/21,2 dias,G43.9,Migraña no especificada,Neurologico,Sanitas
+INC-0204,EMP-039,10-06-2025,2 dias,F32.9,Episodio depresivo no especificado,Salud Mental,SURA EPS
+INC-0205,EMP-082,12/07/2025,15,F32.9,Episodio depresivo no especificado,Salud Mental,Particular
+INC-0206,EMP-026,2026-01-29,,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS SURA
+INC-0207,EMP-038,2025/12/11,30,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Sanitas
+INC-0208,EMP-092,2025/08/18,2,K29.7,Gastritis no especificada,Gastrointestinal,
+INC-0209,EMP-089,2025-12-26,15,M54.5,Lumbago no especificado,Musculoesqueletico,Sanitas
+INC-0210,EMP-083,2026/02/12,15,K29.7,Gastritis no especificada,Gastrointestinal,SURA EPS
+INC-0211,EMP-067,2025/07/11,2 dias,F32.9,Episodio depresivo no especificado,Salud Mental,Sanitas
+INC-0212,EMP-045,2025/06/01,2,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,SURA EPS
+INC-0213,EMP-019,06-02-2026,2 dias,G43.9,Migraña no especificada,Neurologico,SURA EPS
+INC-0214,EMP-090,2025-13-45,8,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,
+INC-0215,EMP-022,31-03-2025,3 Días,F32.9,Episodio depresivo no especificado,Salud Mental,
+INC-0216,EMP-052,2025/12/03,,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS SURA
+INC-0217,EMP-076,16/04/2025,5,M54.5,Lumbago no especificado,Musculoesqueletico,EPS Sura
+INC-0218,EMP-069,2025-08-23,5,G43.9,Migraña no especificada,Neurologico,SURA EPS
+INC-0219,EMP-041,28/02/2025,15,K29.7,Gastritis no especificada,Gastrointestinal,SURA EPS
+INC-0220,EMP-091,10/03/2025,,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,SURA EPS
+INC-0221,EMP-019,2025/03/12,15,K29.7,Gastritis no especificada,Gastrointestinal,SURA EPS
+INC-0222,EMP-023,13-03-2025,8,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Compensar
+INC-0223,EMP-002,2025/10/15,30,F32.9,Episodio depresivo no especificado,Salud Mental,EPS SURA
+INC-0224,EMP-063,2025-05-30,5,M54.5,Lumbago no especificado,Musculoesqueletico,EPS SURA
+INC-0225,EMP-073,2025-09-19,3 Días,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Compensar
+INC-0226,EMP-070,07-10-2025,2 dias,M54.5,Lumbago no especificado,Musculoesqueletico,
+INC-0227,EMP-032,15/05/2025,2 dias,M54.5,Lumbago no especificado,Musculoesqueletico,EPS Sura
+INC-0228,EMP-100,19/12/2025,15,F32.9,Episodio depresivo no especificado,Salud Mental,Particular
+INC-0229,EMP-018,19/10/2025,1,F32.9,Episodio depresivo no especificado,Salud Mental,SURA EPS
+INC-0230,EMP-038,2025-12-14,3 Días,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS Sura
+INC-0231,EMP-036,08-05-2025,3,F41.1,Trastorno de ansiedad generalizada,Salud Mental,SURA EPS
+INC-0232,EMP-051,2025/08/01,,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS Sura
+INC-0233,EMP-052,2025/08/21,15,,Esguince y torcedura del tobillo,Trauma / Osteomuscular,SURA EPS
+INC-0234,EMP-012,07/12/2025,,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS SURA
+INC-0235,EMP-028,22-06-2025,8,G43.9,Migraña no especificada,Neurologico,SURA EPS
+INC-0236,EMP-104,05-03-2025,1,,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Sanitas
+INC-0237,EMP-089,2025-05-21,3,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,SURA EPS
+INC-0238,EMP-110,2025-12-02,30,,Episodio depresivo no especificado,Salud Mental,Sanitas
+INC-0239,EMP-076,05/01/2025,1,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Sanitas
+INC-0240,EMP-113,22/02/2025,2,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,
+INC-0241,EMP-097,2025-09-29,2,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Sanitas
+INC-0242,EMP-081,2025/12/18,15,K29.7,Gastritis no especificada,Gastrointestinal,
+INC-0243,EMP-016,08/08/2025,15,K29.7,Gastritis no especificada,Gastrointestinal,Sanitas
+INC-0244,EMP-071,04/12/2025,1,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS SURA
+INC-0245,EMP-038,2025-07-17,2 dias,F32.9,Episodio depresivo no especificado,Salud Mental,EPS Sura
+INC-0246,EMP-047,2025/10/19,30,F41.1,Trastorno de ansiedad generalizada,Salud Mental,
+INC-0247,EMP-103,2025-04-21,8,M54.5,Lumbago no especificado,Musculoesqueletico,Compensar
+INC-0248,EMP-081,2025/12/26,30,K29.7,Gastritis no especificada,Gastrointestinal,Compensar
+INC-0249,EMP-011,02/10/2025,3,F32.9,Episodio depresivo no especificado,Salud Mental,SURA EPS
+INC-0250,EMP-114,2025-05-06,1,F32.9,Episodio depresivo no especificado,Salud Mental,EPS Sura
+INC-0251,EMP-040,07-01-2025,2,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Particular
+INC-0252,EMP-067,10-07-2025,3,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS Sura
+INC-0253,EMP-099,2025-05-20,30,G43.9,Migraña no especificada,Neurologico,EPS SURA
+INC-0254,EMP-059,18-10-2025,2 dias,M54.5,Lumbago no especificado,Musculoesqueletico,Particular
+INC-0255,EMP-087,2025-01-02,3 Días,,Episodio depresivo no especificado,Salud Mental,Compensar
+INC-0256,EMP-050,2025/10/11,1,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Compensar
+INC-0257,EMP-035,2025-09-15,2,G43.9,Migraña no especificada,Neurologico,EPS SURA
+INC-0258,EMP-009,2025-06-17,8,,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Particular
+INC-0259,EMP-039,2025/07/08,2 dias,F32.9,Episodio depresivo no especificado,Salud Mental,Particular
+INC-0260,EMP-098,2025-07-29,1,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS Sura
+INC-0261,EMP-113,16-04-2025,2,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Sanitas
+INC-0262,EMP-092,2025/09/24,5,M54.5,Lumbago no especificado,Musculoesqueletico,EPS Sura
+INC-0263,EMP-075,2026/02/24,,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Sanitas
+INC-0264,EMP-031,25/12/2025,30,G43.9,Migraña no especificada,Neurologico,Sanitas
+INC-0265,EMP-018,24-02-2025,3,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Compensar
+INC-0266,EMP-099,2025-05-16,2 dias,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,SURA EPS
+INC-0267,EMP-090,2025-03-17,15,F32.9,Episodio depresivo no especificado,Salud Mental,EPS Sura
+INC-0268,EMP-087,2025/07/27,1,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS Sura
+INC-0269,EMP-018,08-03-2025,5,M54.5,Lumbago no especificado,Musculoesqueletico,SURA EPS
+INC-0270,EMP-011,2025-01-12,2,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS Sura
+INC-0271,EMP-043,2025/03/28,1,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,SURA EPS
+INC-0272,EMP-055,21/05/2025,3,F32.9,Episodio depresivo no especificado,Salud Mental,Particular
+INC-0273,EMP-032,2025/10/09,30,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Sanitas
+INC-0274,EMP-083,2026-02-15,,F32.9,Episodio depresivo no especificado,Salud Mental,Particular
+INC-0275,EMP-063,2025-13-45,30,G43.9,Migraña no especificada,Neurologico,
+INC-0276,EMP-100,03-07-2025,3 Días,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Compensar
+INC-0277,EMP-069,2025/10/22,5,M54.5,Lumbago no especificado,Musculoesqueletico,Sanitas
+INC-0278,EMP-031,15/01/2025,15,G43.9,Migraña no especificada,Neurologico,Sanitas
+INC-0279,EMP-064,2025-01-20,2 dias,F41.1,RESERVADO,Salud Mental,EPS SURA
+INC-0280,EMP-001,24-06-2025,3,F32.9,Episodio depresivo no especificado,Salud Mental,EPS Sura
+INC-0281,EMP-019,27/09/2025,2,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS SURA
+INC-0282,EMP-076,11-03-2025,15,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS SURA
+INC-0283,EMP-084,07-12-2025,5,G43.9,Migraña no especificada,Neurologico,Sanitas
+INC-0284,EMP-119,17-01-2025,15,K29.7,Gastritis no especificada,Gastrointestinal,Sanitas
+INC-0285,EMP-082,2025-06-19,3,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS Sura
+INC-0286,EMP-091,06/01/2025,2 dias,G43.9,Migraña no especificada,Neurologico,
+INC-0287,EMP-014,2025/08/13,30,M54.5,Lumbago no especificado,Musculoesqueletico,EPS SURA
+INC-0288,EMP-045,08-02-2026,2 dias,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Compensar
+INC-0289,EMP-003,25-06-2025,2,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,EPS Sura
+INC-0290,EMP-044,09-08-2025,1,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,Compensar
+INC-0291,EMP-027,05/01/2026,3 Días,K29.7,Gastritis no especificada,Gastrointestinal,EPS SURA
+INC-0292,EMP-074,2025-13-45,3,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,SURA EPS
+INC-0293,EMP-077,16-04-2025,1,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,EPS Sura
+INC-0294,EMP-040,05/12/2025,2 dias,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS SURA
+INC-0295,EMP-048,2025/08/14,8,M54.5,Lumbago no especificado,Musculoesqueletico,Sanitas
+INC-0296,EMP-097,09/12/2025,2,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Sanitas
+INC-0297,EMP-113,2025/12/18,3 Días,K29.7,Gastritis no especificada,Gastrointestinal,EPS SURA
+INC-0298,EMP-119,2026/01/23,2,F41.1,Trastorno de ansiedad generalizada,Salud Mental,
+INC-0299,EMP-025,2025/12/16,2,K29.7,Gastritis no especificada,Gastrointestinal,Particular
+INC-0300,EMP-034,2025/07/18,2,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,
+INC-0301,EMP-002,01-08-2025,2,K29.7,Gastritis no especificada,Gastrointestinal,EPS Sura
+INC-0302,EMP-014,02/10/2025,8,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Particular
+INC-0303,EMP-078,26-07-2025,8,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS SURA
+INC-0304,EMP-043,2025-13-45,2 dias,M54.5,Lumbago no especificado,Musculoesqueletico,Compensar
+INC-0305,EMP-063,10/03/2025,5,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Compensar
+INC-0306,EMP-094,15-08-2025,5,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Particular
+INC-0307,EMP-048,2025/06/09,2,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS Sura
+INC-0308,EMP-023,2025-05-08,1,F32.9,Episodio depresivo no especificado,Salud Mental,Compensar
+INC-0309,EMP-048,2025-03-05,,K29.7,Gastritis no especificada,Gastrointestinal,
+INC-0310,EMP-061,25/03/2025,15,G43.9,Migraña no especificada,Neurologico,EPS SURA
+INC-0311,EMP-007,28-11-2025,5,F32.9,Episodio depresivo no especificado,Salud Mental,EPS Sura
+INC-0312,EMP-100,09-03-2025,2 dias,,Lumbago no especificado,Musculoesqueletico,
+INC-0313,EMP-040,12/07/2025,30,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Particular
+INC-0314,EMP-080,19/09/2025,1,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,SURA EPS
+INC-0315,EMP-014,24/11/2025,8,G43.9,Migraña no especificada,Neurologico,SURA EPS
+INC-0316,EMP-039,2026/02/17,1,F32.9,Episodio depresivo no especificado,Salud Mental,SURA EPS
+INC-0317,EMP-064,2025/07/27,30,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,
+INC-0318,EMP-025,2025/10/01,,F32.9,Episodio depresivo no especificado,Salud Mental,
+INC-0319,EMP-022,2025/02/19,8,F41.1,Trastorno de ansiedad generalizada,Salud Mental,
+INC-0320,EMP-024,15-02-2025,,G43.9,Migraña no especificada,Neurologico,
+INC-0321,EMP-043,2025/03/02,2 dias,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,Particular
+INC-0322,EMP-010,2025/03/03,3 Días,F32.9,Episodio depresivo no especificado,Salud Mental,Sanitas
+INC-0323,EMP-018,2025/10/19,30,G43.9,Migraña no especificada,Neurologico,EPS Sura
+INC-0324,EMP-063,2025-13-45,15,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Sanitas
+INC-0325,EMP-074,2025/03/08,2,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS SURA
+INC-0326,EMP-107,2025-13-45,1,,Migraña no especificada,Neurologico,Sanitas
+INC-0327,EMP-089,2025/02/22,3,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,EPS Sura
+INC-0328,EMP-039,02/11/2025,3 Días,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS SURA
+INC-0329,EMP-046,10-01-2025,30,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS Sura
+INC-0330,EMP-076,2025-12-31,15,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Particular
+INC-0331,EMP-007,2025-02-25,,M54.5,Lumbago no especificado,Musculoesqueletico,EPS Sura
+INC-0332,EMP-071,2025-12-22,5,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Compensar
+INC-0333,EMP-080,2025-02-23,30,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Particular
+INC-0334,EMP-026,2025/12/27,15,,Episodio depresivo no especificado,Salud Mental,Sanitas
+INC-0335,EMP-089,2025-01-02,5,G43.9,Migraña no especificada,Neurologico,SURA EPS
+INC-0336,EMP-064,2025-02-08,3 Días,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Compensar
+INC-0337,EMP-034,21/01/2025,3,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,EPS Sura
+INC-0338,EMP-013,12-03-2025,1,M54.5,Lumbago no especificado,Musculoesqueletico,Compensar
+INC-0339,EMP-094,2025/02/28,3,G43.9,Migraña no especificada,Neurologico,SURA EPS
+INC-0340,EMP-062,2025-03-09,2,F41.1,Trastorno de ansiedad generalizada,Salud Mental,Particular
+INC-0341,EMP-062,2025/11/09,3,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,
+INC-0342,EMP-094,2025-09-07,2 dias,F41.1,Trastorno de ansiedad generalizada,Salud Mental,SURA EPS
+INC-0343,EMP-117,2025-06-23,,F32.9,Episodio depresivo no especificado,Salud Mental,SURA EPS
+INC-0344,EMP-087,2025-13-45,3 Días,F41.1,Trastorno de ansiedad generalizada,Salud Mental,EPS SURA
+INC-0345,EMP-064,14-06-2025,2 dias,J06.9,Infeccion aguda de las vias respiratorias superiores,Respiratorio,Particular
+INC-0346,EMP-083,2025/08/24,2,F32.9,Episodio depresivo no especificado,Salud Mental,EPS SURA
+INC-0347,EMP-041,2025-01-10,,,Exposicion ocupacional a otros factores de riesgo,Ocupacional,
+INC-0348,EMP-012,15-10-2025,3 Días,S93.4,Esguince y torcedura del tobillo,Trauma / Osteomuscular,
+INC-0349,EMP-007,2025/10/14,15,Z57.8,Exposicion ocupacional a otros factores de riesgo,Ocupacional,EPS Sura
+INC-0350,EMP-098,01/07/2025,15,M54.5,Lumbago no especificado,Musculoesqueletico,Sanitas

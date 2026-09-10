@@ -1,0 +1,351 @@
+﻿ID_RESPUESTA,CODIGO_EMPLEADO,FECHA_ENCUESTA,SINTOMA_PRINCIPAL,PELIGRO_IDENTIFICADO,NIVEL_DOLOR_PERCIBIDO,REQUIERE_VALORACION_MEDICA
+ENC-0001,EMP-064,06/07/2025,Dolor lumbar frecuente,Movimiento repetitivo,6,no
+ENC-0002,EMP-016,25/01/2026,Estrés alto / Fatiga,Ruido elevado,6,N
+ENC-0003,EMP-014,11/12/2025,Dolor lumbar frecuente,Iluminacion inadecuada,3,0
+ENC-0004,EMP-059,2025-11-16,Sin sintomas,Postura prolongada,1,
+ENC-0005,EMP-056,01/01/2026,Dolor de cabeza recurrente,Carga mental alta,5,Si
+ENC-0006,EMP-014,08/09/2025,Dolor de cabeza recurrente,Ruido elevado,Bajo,no
+ENC-0007,EMP-036,10/09/2025,Cansancio visual,Ruido elevado,4,Si
+ENC-0008,EMP-053,02/11/2025,Ansiedad / Insomnio,Iluminacion inadecuada,10,
+ENC-0009,EMP-081,2025-07-26,Estrés alto / Fatiga,Ninguno,9,N
+ENC-0010,EMP-087,2025-07-04,Dolor de cabeza recurrente,Ninguno,10,NO
+ENC-0011,EMP-098,30/08/2025,Dolor de cabeza recurrente,Ninguno,Bajo,
+ENC-0012,EMP-037,11/01/2026,Ansiedad / Insomnio,Postura prolongada,3,SI
+ENC-0013,EMP-049,2025-07-08,Dolor en articulaciones,Postura prolongada,6,S
+ENC-0014,EMP-097,2025-12-19,Cansancio visual,Iluminacion inadecuada,8,Si
+ENC-0015,EMP-008,24/11/2025,Estrés alto / Fatiga,Ninguno,1,N
+ENC-0016,EMP-058,2025-06-27,Dolor en articulaciones,Iluminacion inadecuada,Medio,no
+ENC-0017,EMP-066,18/12/2025,Dolor en articulaciones,Iluminacion inadecuada,1,1
+ENC-0018,EMP-050,15/09/2025,Dolor de cabeza recurrente,Postura prolongada,0,S
+ENC-0019,EMP-026,06/11/2025,Ansiedad / Insomnio,Carga mental alta,Alto,
+ENC-0020,EMP-095,2025-11-02,Ansiedad / Insomnio,Iluminacion inadecuada,6,S
+ENC-0021,EMP-058,2025-07-16,Estrés alto / Fatiga,Carga mental alta,3,1
+ENC-0022,EMP-006,18/09/2025,Dolor de cabeza recurrente,Movimiento repetitivo,4,Si
+ENC-0023,EMP-075,03/01/2026,Dolor lumbar frecuente,Movimiento repetitivo,N/A,Si
+ENC-0024,EMP-006,10/07/2025,Dolor de cabeza recurrente,Postura prolongada,9,0
+ENC-0025,EMP-074,19/10/2025,Dolor lumbar frecuente,Iluminacion inadecuada,10,
+ENC-0026,EMP-029,2026-01-31,Dolor de cabeza recurrente,Postura prolongada,5,1
+ENC-0027,EMP-070,16/10/2025,Dolor lumbar frecuente,Movimiento repetitivo,7,no
+ENC-0028,EMP-085,24/08/2025,Cansancio visual,Movimiento repetitivo,6,
+ENC-0029,EMP-061,2025-10-22,Dolor lumbar frecuente,Iluminacion inadecuada,Alto,0
+ENC-0030,EMP-031,2026-01-18,Dolor lumbar frecuente,Iluminacion inadecuada,10,1
+ENC-0031,EMP-015,07/09/2025,Dolor de cabeza recurrente,Iluminacion inadecuada,9,SI
+ENC-0032,EMP-067,28/12/2025,Dolor de cabeza recurrente,Ninguno,N/A,0
+ENC-0033,EMP-006,2025-08-15,Cansancio visual,Ninguno,2,NO
+ENC-0034,EMP-022,2026-02-04,Dolor en articulaciones,Postura prolongada,6,no
+ENC-0035,EMP-088,2025-09-17,Estrés alto / Fatiga,Ninguno,Bajo,NO
+ENC-0036,EMP-096,2025-11-23,Dolor lumbar frecuente,Ruido elevado,10,SI
+ENC-0037,EMP-012,2025-06-19,Estrés alto / Fatiga,Movimiento repetitivo,2,no
+ENC-0038,EMP-034,13/09/2025,Sin sintomas,Iluminacion inadecuada,Medio,1
+ENC-0039,EMP-041,05/06/2025,Dolor en articulaciones,Postura prolongada,0,NO
+ENC-0040,EMP-097,2025-12-08,Dolor en articulaciones,Postura prolongada,Alto,
+ENC-0041,EMP-014,14/08/2025,Dolor de cabeza recurrente,Postura prolongada,9,0
+ENC-0042,EMP-049,2025-09-10,Sin sintomas,Carga mental alta,7,Si
+ENC-0043,EMP-096,09/09/2025,Dolor en articulaciones,Carga mental alta,9,N
+ENC-0044,EMP-002,2025-10-20,Dolor lumbar frecuente,Postura prolongada,0,1
+ENC-0045,EMP-069,2025-10-19,Cansancio visual,Carga mental alta,Alto,no
+ENC-0046,EMP-053,2026-01-18,Estrés alto / Fatiga,Carga mental alta,7,S
+ENC-0047,EMP-025,2025-06-30,Dolor en articulaciones,Ninguno,1,
+ENC-0048,EMP-060,2025-11-13,Cansancio visual,Iluminacion inadecuada,2,S
+ENC-0049,EMP-013,21/07/2025,Cansancio visual,Movimiento repetitivo,4,no
+ENC-0050,EMP-013,2025-08-12,Estrés alto / Fatiga,Movimiento repetitivo,,0
+ENC-0051,EMP-043,05/11/2025,Dolor en articulaciones,Ninguno,4,N
+ENC-0052,EMP-041,01/02/2026,Estrés alto / Fatiga,Postura prolongada,10,no
+ENC-0053,EMP-029,30/11/2025,Cansancio visual,Movimiento repetitivo,4,N
+ENC-0054,EMP-062,27/09/2025,Cansancio visual,Movimiento repetitivo,,
+ENC-0055,EMP-014,2025-07-15,Ansiedad / Insomnio,Movimiento repetitivo,4,
+ENC-0056,EMP-026,2025-08-07,Dolor en articulaciones,Postura prolongada,0,
+ENC-0057,EMP-081,08/06/2025,Ansiedad / Insomnio,Ninguno,6,SI
+ENC-0058,EMP-071,06/08/2025,Dolor en articulaciones,Carga mental alta,Alto,1
+ENC-0059,EMP-029,15/01/2026,Estrés alto / Fatiga,Ruido elevado,2,1
+ENC-0060,EMP-047,2025-10-07,Dolor en articulaciones,Carga mental alta,5,
+ENC-0061,EMP-018,2025-09-23,Estrés alto / Fatiga,Ninguno,4,0
+ENC-0062,EMP-046,2025-06-11,Ansiedad / Insomnio,Ruido elevado,7,NO
+ENC-0063,EMP-034,2025-09-03,Dolor lumbar frecuente,Iluminacion inadecuada,6,
+ENC-0064,EMP-047,08/09/2025,Sin sintomas,Postura prolongada,1,N
+ENC-0065,EMP-014,28/11/2025,Ansiedad / Insomnio,Iluminacion inadecuada,8,
+ENC-0066,EMP-073,15/07/2025,Dolor en articulaciones,Ruido elevado,Alto,NO
+ENC-0067,EMP-067,04/08/2025,Estrés alto / Fatiga,Ninguno,Medio,N
+ENC-0068,EMP-045,03/10/2025,Dolor de cabeza recurrente,Postura prolongada,4,0
+ENC-0069,EMP-022,2025-07-29,Dolor de cabeza recurrente,Iluminacion inadecuada,8,no
+ENC-0070,EMP-020,2025-07-18,Cansancio visual,Ninguno,3,no
+ENC-0071,EMP-054,25/12/2025,Dolor en articulaciones,Postura prolongada,,0
+ENC-0072,EMP-062,2025-07-24,Dolor en articulaciones,Ruido elevado,0,no
+ENC-0073,EMP-006,2025-07-03,Estrés alto / Fatiga,Iluminacion inadecuada,1,Si
+ENC-0074,EMP-008,13/07/2025,Estrés alto / Fatiga,Ninguno,Medio,SI
+ENC-0075,EMP-093,04/12/2025,Dolor lumbar frecuente,Carga mental alta,N/A,0
+ENC-0076,EMP-062,2025-07-14,Ansiedad / Insomnio,Ruido elevado,4,Si
+ENC-0077,EMP-080,16/11/2025,Estrés alto / Fatiga,Iluminacion inadecuada,10,0
+ENC-0078,EMP-077,2025-10-30,Estrés alto / Fatiga,Ruido elevado,Medio,Si
+ENC-0079,EMP-014,2025-06-05,Dolor de cabeza recurrente,Ninguno,Bajo,Si
+ENC-0080,EMP-078,2025-06-25,Sin sintomas,Ninguno,1,
+ENC-0081,EMP-065,2025-12-10,Dolor lumbar frecuente,Ruido elevado,4,
+ENC-0082,EMP-001,16/01/2026,Dolor de cabeza recurrente,Ruido elevado,Alto,SI
+ENC-0083,EMP-090,14/10/2025,Estrés alto / Fatiga,Ruido elevado,Medio,N
+ENC-0084,EMP-076,2025-12-23,Sin sintomas,Carga mental alta,8,0
+ENC-0085,EMP-099,2025-07-30,Cansancio visual,Ninguno,Bajo,S
+ENC-0086,EMP-025,2025-06-02,Dolor de cabeza recurrente,Ninguno,3,
+ENC-0087,EMP-001,2025-09-05,Dolor en articulaciones,Movimiento repetitivo,Bajo,N
+ENC-0088,EMP-014,10/07/2025,Dolor en articulaciones,Ninguno,8,S
+ENC-0089,EMP-069,17/09/2025,Dolor de cabeza recurrente,Movimiento repetitivo,Medio,no
+ENC-0090,EMP-053,20/10/2025,Estrés alto / Fatiga,Movimiento repetitivo,,S
+ENC-0091,EMP-040,26/10/2025,Ansiedad / Insomnio,Iluminacion inadecuada,Medio,Si
+ENC-0092,EMP-085,2025-07-01,Sin sintomas,Iluminacion inadecuada,5,NO
+ENC-0093,EMP-028,09/10/2025,Ansiedad / Insomnio,Movimiento repetitivo,1,Si
+ENC-0094,EMP-050,2026-02-02,Ansiedad / Insomnio,Postura prolongada,4,0
+ENC-0095,EMP-077,2025-09-20,Dolor lumbar frecuente,Movimiento repetitivo,7,N
+ENC-0096,EMP-011,2025-11-03,Dolor en articulaciones,Ruido elevado,Medio,
+ENC-0097,EMP-037,2025-11-30,Ansiedad / Insomnio,Carga mental alta,,0
+ENC-0098,EMP-002,22/07/2025,Estrés alto / Fatiga,Postura prolongada,7,Si
+ENC-0099,EMP-087,10/06/2025,Estrés alto / Fatiga,Iluminacion inadecuada,0,Si
+ENC-0100,EMP-012,10/08/2025,Cansancio visual,Iluminacion inadecuada,Medio,1
+ENC-0101,EMP-076,2025-07-22,Dolor en articulaciones,Iluminacion inadecuada,2,NO
+ENC-0102,EMP-071,12/08/2025,Cansancio visual,Movimiento repetitivo,7,no
+ENC-0103,EMP-059,25/01/2026,Dolor de cabeza recurrente,Postura prolongada,8,Si
+ENC-0104,EMP-053,2025-10-08,Dolor de cabeza recurrente,Postura prolongada,9,N
+ENC-0105,EMP-015,23/12/2025,Dolor de cabeza recurrente,Ninguno,8,0
+ENC-0106,EMP-049,23/10/2025,Ansiedad / Insomnio,Carga mental alta,10,0
+ENC-0107,EMP-088,2025-09-26,Sin sintomas,Postura prolongada,8,NO
+ENC-0108,EMP-049,2025-11-10,Dolor en articulaciones,Iluminacion inadecuada,7,N
+ENC-0109,EMP-053,31/01/2026,Dolor de cabeza recurrente,Ninguno,0,S
+ENC-0110,EMP-032,2025-08-13,Sin sintomas,Iluminacion inadecuada,10,NO
+ENC-0111,EMP-071,2026-01-25,Sin sintomas,Movimiento repetitivo,Alto,no
+ENC-0112,EMP-074,2025-08-08,Dolor en articulaciones,Iluminacion inadecuada,6,0
+ENC-0113,EMP-095,2025-07-22,Dolor en articulaciones,Carga mental alta,8,no
+ENC-0114,EMP-030,2025-07-22,Ansiedad / Insomnio,Ninguno,Alto,Si
+ENC-0115,EMP-100,2025-06-28,Dolor lumbar frecuente,Iluminacion inadecuada,,SI
+ENC-0116,EMP-098,2026-01-06,Ansiedad / Insomnio,Ruido elevado,Alto,N
+ENC-0117,EMP-064,16/01/2026,Sin sintomas,Carga mental alta,8,1
+ENC-0118,EMP-029,2025-12-10,Dolor lumbar frecuente,Ninguno,Bajo,0
+ENC-0119,EMP-070,09/06/2025,Sin sintomas,Iluminacion inadecuada,5,0
+ENC-0120,EMP-016,26/11/2025,Cansancio visual,Iluminacion inadecuada,0,SI
+ENC-0121,EMP-087,24/07/2025,Dolor de cabeza recurrente,Postura prolongada,10,N
+ENC-0122,EMP-079,07/01/2026,Estrés alto / Fatiga,Ninguno,8,no
+ENC-0123,EMP-035,29/09/2025,Cansancio visual,Carga mental alta,,1
+ENC-0124,EMP-027,16/09/2025,Cansancio visual,Ruido elevado,8,0
+ENC-0125,EMP-024,2025-10-25,Dolor de cabeza recurrente,Iluminacion inadecuada,7,NO
+ENC-0126,EMP-093,2025-08-09,Dolor de cabeza recurrente,Ruido elevado,Medio,no
+ENC-0127,EMP-019,2025-12-22,Sin sintomas,Postura prolongada,5,1
+ENC-0128,EMP-064,05/07/2025,Ansiedad / Insomnio,Ruido elevado,9,S
+ENC-0129,EMP-072,2026-01-06,Sin sintomas,Postura prolongada,5,SI
+ENC-0130,EMP-028,26/12/2025,Sin sintomas,Iluminacion inadecuada,3,0
+ENC-0131,EMP-096,25/08/2025,Cansancio visual,Movimiento repetitivo,8,N
+ENC-0132,EMP-003,2025-09-14,Cansancio visual,Iluminacion inadecuada,6,
+ENC-0133,EMP-023,06/02/2026,Cansancio visual,Movimiento repetitivo,,0
+ENC-0134,EMP-011,06/09/2025,Sin sintomas,Iluminacion inadecuada,4,Si
+ENC-0135,EMP-082,24/12/2025,Sin sintomas,Iluminacion inadecuada,Medio,NO
+ENC-0136,EMP-011,12/07/2025,Estrés alto / Fatiga,Movimiento repetitivo,10,S
+ENC-0137,EMP-091,08/08/2025,Cansancio visual,Ruido elevado,Alto,
+ENC-0138,EMP-058,2025-09-14,Estrés alto / Fatiga,Postura prolongada,4,no
+ENC-0139,EMP-085,2025-08-04,Estrés alto / Fatiga,Carga mental alta,Medio,NO
+ENC-0140,EMP-013,17/06/2025,Dolor de cabeza recurrente,Postura prolongada,0,1
+ENC-0141,EMP-068,2025-12-13,Dolor lumbar frecuente,Movimiento repetitivo,4,NO
+ENC-0142,EMP-084,25/01/2026,Cansancio visual,Carga mental alta,7,S
+ENC-0143,EMP-057,2025-11-08,Estrés alto / Fatiga,Ninguno,5,SI
+ENC-0144,EMP-005,17/11/2025,Ansiedad / Insomnio,Movimiento repetitivo,,0
+ENC-0145,EMP-070,26/01/2026,Dolor de cabeza recurrente,Ruido elevado,4,
+ENC-0146,EMP-023,30/10/2025,Dolor en articulaciones,Iluminacion inadecuada,Bajo,
+ENC-0147,EMP-082,11/11/2025,Cansancio visual,Ruido elevado,7,NO
+ENC-0148,EMP-057,18/08/2025,Sin sintomas,Movimiento repetitivo,4,S
+ENC-0149,EMP-002,2025-06-01,Cansancio visual,Movimiento repetitivo,,
+ENC-0150,EMP-002,24/11/2025,Ansiedad / Insomnio,Ruido elevado,9,SI
+ENC-0151,EMP-099,19/09/2025,Dolor de cabeza recurrente,Carga mental alta,0,
+ENC-0152,EMP-048,19/07/2025,Dolor de cabeza recurrente,Ruido elevado,Medio,no
+ENC-0153,EMP-021,01/12/2025,Ansiedad / Insomnio,Ruido elevado,7,S
+ENC-0154,EMP-011,2025-09-17,Dolor de cabeza recurrente,Ninguno,8,S
+ENC-0155,EMP-084,08/12/2025,Sin sintomas,Carga mental alta,2,Si
+ENC-0156,EMP-018,2025-08-14,Dolor en articulaciones,Ruido elevado,N/A,S
+ENC-0157,EMP-090,07/11/2025,Estrés alto / Fatiga,Movimiento repetitivo,0,Si
+ENC-0158,EMP-007,2026-02-04,Estrés alto / Fatiga,Postura prolongada,9,S
+ENC-0159,EMP-017,01/12/2025,Dolor en articulaciones,Postura prolongada,7,NO
+ENC-0160,EMP-020,04/06/2025,Estrés alto / Fatiga,Movimiento repetitivo,Bajo,S
+ENC-0161,EMP-064,04/09/2025,Dolor en articulaciones,Postura prolongada,10,NO
+ENC-0162,EMP-097,2026-01-30,Dolor lumbar frecuente,Movimiento repetitivo,Medio,NO
+ENC-0163,EMP-070,2025-09-29,Estrés alto / Fatiga,Movimiento repetitivo,Medio,SI
+ENC-0164,EMP-016,2026-02-05,Sin sintomas,Ruido elevado,7,SI
+ENC-0165,EMP-026,2025-09-26,Dolor de cabeza recurrente,Iluminacion inadecuada,6,0
+ENC-0166,EMP-050,22/11/2025,Cansancio visual,Carga mental alta,1,
+ENC-0167,EMP-067,02/07/2025,Sin sintomas,Iluminacion inadecuada,9,no
+ENC-0168,EMP-047,2026-01-14,Ansiedad / Insomnio,Iluminacion inadecuada,6,NO
+ENC-0169,EMP-031,10/11/2025,Cansancio visual,Postura prolongada,5,S
+ENC-0170,EMP-075,01/07/2025,Ansiedad / Insomnio,Carga mental alta,0,SI
+ENC-0171,EMP-075,18/12/2025,Dolor en articulaciones,Ninguno,4,N
+ENC-0172,EMP-099,2025-06-23,Estrés alto / Fatiga,Ruido elevado,2,N
+ENC-0173,EMP-098,2025-11-08,Dolor lumbar frecuente,Movimiento repetitivo,4,
+ENC-0174,EMP-014,03/07/2025,Estrés alto / Fatiga,Movimiento repetitivo,Alto,0
+ENC-0175,EMP-094,2025-07-20,Dolor en articulaciones,Ruido elevado,Alto,Si
+ENC-0176,EMP-033,2026-01-17,Sin sintomas,Iluminacion inadecuada,N/A,
+ENC-0177,EMP-038,17/10/2025,Estrés alto / Fatiga,Ninguno,5,
+ENC-0178,EMP-045,22/08/2025,Cansancio visual,Ninguno,5,NO
+ENC-0179,EMP-068,10/07/2025,Cansancio visual,Movimiento repetitivo,Alto,0
+ENC-0180,EMP-001,16/12/2025,Dolor en articulaciones,Carga mental alta,0,N
+ENC-0181,EMP-100,2025-11-06,Cansancio visual,Iluminacion inadecuada,2,
+ENC-0182,EMP-050,19/07/2025,Ansiedad / Insomnio,Ninguno,4,S
+ENC-0183,EMP-042,13/09/2025,Dolor lumbar frecuente,Postura prolongada,2,SI
+ENC-0184,EMP-017,2025-07-16,Estrés alto / Fatiga,Postura prolongada,,no
+ENC-0185,EMP-013,09/06/2025,Dolor en articulaciones,Ruido elevado,8,SI
+ENC-0186,EMP-047,2025-07-27,Dolor lumbar frecuente,Carga mental alta,,NO
+ENC-0187,EMP-060,2025-12-23,Cansancio visual,Ninguno,Bajo,N
+ENC-0188,EMP-091,15/06/2025,Dolor de cabeza recurrente,Postura prolongada,2,S
+ENC-0189,EMP-010,2026-01-28,Dolor de cabeza recurrente,Postura prolongada,3,no
+ENC-0190,EMP-069,2025-09-07,Estrés alto / Fatiga,Ninguno,7,Si
+ENC-0191,EMP-072,09/12/2025,Dolor en articulaciones,Postura prolongada,Alto,0
+ENC-0192,EMP-090,18/11/2025,Dolor lumbar frecuente,Carga mental alta,5,
+ENC-0193,EMP-052,08/10/2025,Dolor en articulaciones,Carga mental alta,N/A,N
+ENC-0194,EMP-041,19/10/2025,Ansiedad / Insomnio,Movimiento repetitivo,Bajo,1
+ENC-0195,EMP-093,2025-08-22,Dolor de cabeza recurrente,Ninguno,6,1
+ENC-0196,EMP-099,19/10/2025,Cansancio visual,Ruido elevado,N/A,1
+ENC-0197,EMP-001,2025-12-03,Cansancio visual,Ninguno,0,
+ENC-0198,EMP-018,14/01/2026,Dolor lumbar frecuente,Movimiento repetitivo,7,no
+ENC-0199,EMP-041,06/06/2025,Dolor de cabeza recurrente,Ninguno,4,NO
+ENC-0200,EMP-005,26/09/2025,Estrés alto / Fatiga,Carga mental alta,8,N
+ENC-0201,EMP-075,2025-08-03,Cansancio visual,Movimiento repetitivo,2,1
+ENC-0202,EMP-073,2026-01-21,Dolor en articulaciones,Postura prolongada,10,0
+ENC-0203,EMP-023,2025-10-03,Dolor de cabeza recurrente,Iluminacion inadecuada,9,SI
+ENC-0204,EMP-094,24/12/2025,Dolor lumbar frecuente,Postura prolongada,10,N
+ENC-0205,EMP-056,2025-09-15,Ansiedad / Insomnio,Carga mental alta,0,1
+ENC-0206,EMP-007,2025-08-18,Cansancio visual,Ninguno,4,N
+ENC-0207,EMP-065,2025-11-26,Estrés alto / Fatiga,Postura prolongada,Medio,0
+ENC-0208,EMP-097,2025-10-31,Estrés alto / Fatiga,Ruido elevado,9,1
+ENC-0209,EMP-019,04/07/2025,Dolor lumbar frecuente,Ruido elevado,1,
+ENC-0210,EMP-052,2025-08-07,Sin sintomas,Ninguno,Bajo,Si
+ENC-0211,EMP-098,05/07/2025,Dolor de cabeza recurrente,Carga mental alta,,1
+ENC-0212,EMP-084,2025-10-25,Dolor de cabeza recurrente,Ninguno,7,no
+ENC-0213,EMP-010,08/08/2025,Cansancio visual,Iluminacion inadecuada,2,NO
+ENC-0214,EMP-086,14/09/2025,Cansancio visual,Movimiento repetitivo,6,N
+ENC-0215,EMP-045,2025-10-31,Ansiedad / Insomnio,Movimiento repetitivo,5,N
+ENC-0216,EMP-079,28/12/2025,Dolor de cabeza recurrente,Carga mental alta,N/A,SI
+ENC-0217,EMP-030,22/07/2025,Estrés alto / Fatiga,Iluminacion inadecuada,2,NO
+ENC-0218,EMP-095,2025-06-14,Dolor de cabeza recurrente,Carga mental alta,9,SI
+ENC-0219,EMP-044,2025-11-25,Cansancio visual,Ruido elevado,,SI
+ENC-0220,EMP-043,2025-07-24,Estrés alto / Fatiga,Ninguno,8,
+ENC-0221,EMP-062,2025-11-07,Dolor en articulaciones,Iluminacion inadecuada,0,1
+ENC-0222,EMP-075,2026-01-18,Cansancio visual,Carga mental alta,1,S
+ENC-0223,EMP-026,20/12/2025,Dolor lumbar frecuente,Ruido elevado,0,NO
+ENC-0224,EMP-050,17/11/2025,Dolor en articulaciones,Iluminacion inadecuada,Alto,NO
+ENC-0225,EMP-003,14/08/2025,Estrés alto / Fatiga,Ruido elevado,3,N
+ENC-0226,EMP-063,2026-01-08,Estrés alto / Fatiga,Carga mental alta,N/A,
+ENC-0227,EMP-092,2025-06-06,Estrés alto / Fatiga,Ninguno,9,N
+ENC-0228,EMP-063,2025-09-09,Dolor lumbar frecuente,Movimiento repetitivo,Alto,N
+ENC-0229,EMP-081,2025-08-17,Dolor de cabeza recurrente,Movimiento repetitivo,1,S
+ENC-0230,EMP-050,2026-01-14,Dolor de cabeza recurrente,Movimiento repetitivo,7,Si
+ENC-0231,EMP-044,16/01/2026,Dolor en articulaciones,Carga mental alta,2,1
+ENC-0232,EMP-067,2026-02-01,Sin sintomas,Carga mental alta,4,1
+ENC-0233,EMP-040,19/01/2026,Sin sintomas,Ninguno,4,no
+ENC-0234,EMP-084,2025-07-06,Ansiedad / Insomnio,Carga mental alta,9,
+ENC-0235,EMP-018,2025-09-19,Dolor en articulaciones,Ninguno,5,N
+ENC-0236,EMP-009,2025-10-21,Estrés alto / Fatiga,Movimiento repetitivo,4,SI
+ENC-0237,EMP-098,21/08/2025,Sin sintomas,Movimiento repetitivo,N/A,S
+ENC-0238,EMP-020,2025-12-17,Dolor lumbar frecuente,Carga mental alta,5,SI
+ENC-0239,EMP-098,04/11/2025,Dolor de cabeza recurrente,Ninguno,7,no
+ENC-0240,EMP-030,2025-11-23,Cansancio visual,Postura prolongada,,Si
+ENC-0241,EMP-065,03/01/2026,Dolor en articulaciones,Iluminacion inadecuada,Alto,Si
+ENC-0242,EMP-050,04/10/2025,Estrés alto / Fatiga,Carga mental alta,6,no
+ENC-0243,EMP-005,2025-09-13,Cansancio visual,Ruido elevado,7,no
+ENC-0244,EMP-097,2025-07-23,Estrés alto / Fatiga,Ruido elevado,,N
+ENC-0245,EMP-059,2026-01-14,Sin sintomas,Ruido elevado,1,1
+ENC-0246,EMP-093,20/08/2025,Dolor de cabeza recurrente,Iluminacion inadecuada,1,
+ENC-0247,EMP-014,24/09/2025,Ansiedad / Insomnio,Postura prolongada,7,
+ENC-0248,EMP-069,2025-09-10,Dolor de cabeza recurrente,Ruido elevado,1,no
+ENC-0249,EMP-038,21/09/2025,Cansancio visual,Movimiento repetitivo,N/A,Si
+ENC-0250,EMP-055,2025-08-15,Dolor en articulaciones,Ninguno,4,0
+ENC-0251,EMP-083,2025-09-24,Dolor en articulaciones,Ninguno,3,Si
+ENC-0252,EMP-100,2025-10-28,Sin sintomas,Ruido elevado,10,0
+ENC-0253,EMP-004,16/07/2025,Dolor de cabeza recurrente,Iluminacion inadecuada,6,0
+ENC-0254,EMP-012,04/08/2025,Dolor en articulaciones,Iluminacion inadecuada,5,NO
+ENC-0255,EMP-012,30/06/2025,Dolor en articulaciones,Movimiento repetitivo,2,
+ENC-0256,EMP-091,2025-09-07,Sin sintomas,Ninguno,Medio,SI
+ENC-0257,EMP-099,14/07/2025,Dolor de cabeza recurrente,Iluminacion inadecuada,4,Si
+ENC-0258,EMP-019,2025-07-16,Sin sintomas,Movimiento repetitivo,9,0
+ENC-0259,EMP-037,2025-11-08,Dolor lumbar frecuente,Carga mental alta,6,SI
+ENC-0260,EMP-080,13/12/2025,Dolor lumbar frecuente,Ruido elevado,,0
+ENC-0261,EMP-070,2025-12-24,Dolor de cabeza recurrente,Ruido elevado,7,no
+ENC-0262,EMP-076,16/11/2025,Sin sintomas,Ruido elevado,N/A,NO
+ENC-0263,EMP-077,2025-11-01,Estrés alto / Fatiga,Ninguno,8,
+ENC-0264,EMP-027,2025-06-13,Estrés alto / Fatiga,Postura prolongada,Alto,SI
+ENC-0265,EMP-019,2026-01-05,Dolor en articulaciones,Ninguno,9,N
+ENC-0266,EMP-012,2025-06-13,Sin sintomas,Carga mental alta,5,S
+ENC-0267,EMP-079,2025-11-17,Sin sintomas,Iluminacion inadecuada,Alto,SI
+ENC-0268,EMP-012,14/12/2025,Cansancio visual,Movimiento repetitivo,Medio,NO
+ENC-0269,EMP-098,2025-09-18,Cansancio visual,Ruido elevado,4,NO
+ENC-0270,EMP-089,07/01/2026,Cansancio visual,Ninguno,Bajo,
+ENC-0271,EMP-027,2025-11-26,Dolor de cabeza recurrente,Postura prolongada,3,
+ENC-0272,EMP-012,02/10/2025,Sin sintomas,Ninguno,10,S
+ENC-0273,EMP-068,26/10/2025,Estrés alto / Fatiga,Ninguno,,
+ENC-0274,EMP-094,09/11/2025,Sin sintomas,Carga mental alta,7,S
+ENC-0275,EMP-025,2025-06-01,Dolor lumbar frecuente,Ruido elevado,3,no
+ENC-0276,EMP-079,15/09/2025,Dolor lumbar frecuente,Movimiento repetitivo,Alto,
+ENC-0277,EMP-082,2025-07-25,Dolor en articulaciones,Carga mental alta,9,S
+ENC-0278,EMP-009,18/08/2025,Dolor de cabeza recurrente,Ninguno,10,SI
+ENC-0279,EMP-015,23/11/2025,Cansancio visual,Ruido elevado,0,Si
+ENC-0280,EMP-025,24/08/2025,Dolor en articulaciones,Ruido elevado,,SI
+ENC-0281,EMP-083,05/07/2025,Estrés alto / Fatiga,Iluminacion inadecuada,N/A,
+ENC-0282,EMP-043,27/09/2025,Dolor en articulaciones,Postura prolongada,9,N
+ENC-0283,EMP-072,2025-10-16,Estrés alto / Fatiga,Ninguno,10,N
+ENC-0284,EMP-009,2026-02-04,Cansancio visual,Postura prolongada,10,1
+ENC-0285,EMP-081,2025-10-15,Dolor de cabeza recurrente,Ninguno,Medio,Si
+ENC-0286,EMP-077,30/06/2025,Dolor en articulaciones,Movimiento repetitivo,1,S
+ENC-0287,EMP-053,23/06/2025,Estrés alto / Fatiga,Movimiento repetitivo,N/A,S
+ENC-0288,EMP-028,13/10/2025,Estrés alto / Fatiga,Postura prolongada,Alto,SI
+ENC-0289,EMP-100,2025-07-22,Sin sintomas,Ninguno,0,0
+ENC-0290,EMP-065,2025-07-10,Cansancio visual,Ruido elevado,9,N
+ENC-0291,EMP-019,2025-12-14,Ansiedad / Insomnio,Ninguno,4,no
+ENC-0292,EMP-093,10/06/2025,Sin sintomas,Iluminacion inadecuada,3,SI
+ENC-0293,EMP-040,2026-01-25,Dolor en articulaciones,Ninguno,2,N
+ENC-0294,EMP-060,2026-01-14,Dolor lumbar frecuente,Ninguno,9,SI
+ENC-0295,EMP-074,12/12/2025,Dolor en articulaciones,Carga mental alta,10,no
+ENC-0296,EMP-025,13/08/2025,Dolor de cabeza recurrente,Movimiento repetitivo,N/A,NO
+ENC-0297,EMP-035,2025-07-09,Cansancio visual,Postura prolongada,0,
+ENC-0298,EMP-066,2025-06-27,Dolor de cabeza recurrente,Movimiento repetitivo,10,S
+ENC-0299,EMP-019,28/01/2026,Dolor de cabeza recurrente,Carga mental alta,5,NO
+ENC-0300,EMP-040,04/11/2025,Dolor de cabeza recurrente,Ruido elevado,1,Si
+ENC-0301,EMP-004,2025-09-29,Dolor lumbar frecuente,Ruido elevado,1,NO
+ENC-0302,EMP-055,2025-09-09,Dolor en articulaciones,Ninguno,N/A,N
+ENC-0303,EMP-040,2025-08-25,Dolor en articulaciones,Iluminacion inadecuada,2,0
+ENC-0304,EMP-073,2025-07-04,Ansiedad / Insomnio,Iluminacion inadecuada,N/A,NO
+ENC-0305,EMP-059,19/08/2025,Sin sintomas,Carga mental alta,7,Si
+ENC-0306,EMP-079,06/08/2025,Sin sintomas,Carga mental alta,10,N
+ENC-0307,EMP-059,2025-10-03,Dolor lumbar frecuente,Ruido elevado,3,N
+ENC-0308,EMP-062,2025-09-27,Cansancio visual,Movimiento repetitivo,4,
+ENC-0309,EMP-014,2025-09-12,Cansancio visual,Ninguno,2,S
+ENC-0310,EMP-069,27/09/2025,Dolor de cabeza recurrente,Ruido elevado,7,no
+ENC-0311,EMP-071,11/07/2025,Sin sintomas,Postura prolongada,10,no
+ENC-0312,EMP-089,30/10/2025,Ansiedad / Insomnio,Ruido elevado,10,
+ENC-0313,EMP-089,2025-07-31,Dolor en articulaciones,Iluminacion inadecuada,2,0
+ENC-0314,EMP-015,30/10/2025,Cansancio visual,Ninguno,3,0
+ENC-0315,EMP-023,18/08/2025,Dolor lumbar frecuente,Ninguno,3,1
+ENC-0316,EMP-042,2025-10-05,Dolor lumbar frecuente,Carga mental alta,4,SI
+ENC-0317,EMP-097,2025-07-08,Sin sintomas,Ninguno,9,1
+ENC-0318,EMP-079,26/10/2025,Estrés alto / Fatiga,Carga mental alta,10,S
+ENC-0319,EMP-073,21/12/2025,Sin sintomas,Iluminacion inadecuada,Alto,NO
+ENC-0320,EMP-075,03/06/2025,Ansiedad / Insomnio,Carga mental alta,9,SI
+ENC-0321,EMP-048,2026-01-17,Dolor lumbar frecuente,Iluminacion inadecuada,Alto,NO
+ENC-0322,EMP-037,2026-01-08,Estrés alto / Fatiga,Ruido elevado,Medio,N
+ENC-0323,EMP-092,06/09/2025,Sin sintomas,Ruido elevado,6,Si
+ENC-0324,EMP-061,2025-07-06,Dolor de cabeza recurrente,Ruido elevado,Alto,1
+ENC-0325,EMP-020,2025-08-13,Estrés alto / Fatiga,Postura prolongada,2,SI
+ENC-0326,EMP-019,02/12/2025,Dolor en articulaciones,Ruido elevado,4,NO
+ENC-0327,EMP-018,12/11/2025,Ansiedad / Insomnio,Ruido elevado,Bajo,Si
+ENC-0328,EMP-059,09/10/2025,Dolor de cabeza recurrente,Ruido elevado,Medio,N
+ENC-0329,EMP-029,18/07/2025,Dolor de cabeza recurrente,Postura prolongada,,no
+ENC-0330,EMP-092,07/10/2025,Sin sintomas,Ninguno,Alto,SI
+ENC-0331,EMP-005,24/10/2025,Dolor en articulaciones,Movimiento repetitivo,3,0
+ENC-0332,EMP-089,2025-06-21,Dolor en articulaciones,Iluminacion inadecuada,8,0
+ENC-0333,EMP-067,2025-06-21,Estrés alto / Fatiga,Ruido elevado,2,
+ENC-0334,EMP-075,2025-08-19,Cansancio visual,Ninguno,0,0
+ENC-0335,EMP-059,10/10/2025,Dolor de cabeza recurrente,Iluminacion inadecuada,10,1
+ENC-0336,EMP-046,01/02/2026,Cansancio visual,Carga mental alta,1,S
+ENC-0337,EMP-094,18/12/2025,Dolor lumbar frecuente,Iluminacion inadecuada,,Si
+ENC-0338,EMP-074,14/06/2025,Ansiedad / Insomnio,Iluminacion inadecuada,0,S
+ENC-0339,EMP-063,2025-06-22,Dolor de cabeza recurrente,Postura prolongada,8,S
+ENC-0340,EMP-017,05/11/2025,Cansancio visual,Movimiento repetitivo,0,NO
+ENC-0341,EMP-078,2025-07-15,Dolor en articulaciones,Ruido elevado,Alto,Si
+ENC-0342,EMP-034,2025-12-18,Sin sintomas,Carga mental alta,1,N
+ENC-0343,EMP-011,2026-02-03,Dolor de cabeza recurrente,Carga mental alta,,1
+ENC-0344,EMP-099,2025-09-07,Dolor en articulaciones,Ruido elevado,5,no
+ENC-0345,EMP-074,05/12/2025,Dolor lumbar frecuente,Iluminacion inadecuada,8,NO
+ENC-0346,EMP-007,13/07/2025,Sin sintomas,Ruido elevado,9,0
+ENC-0347,EMP-096,2026-01-29,Sin sintomas,Iluminacion inadecuada,Medio,0
+ENC-0348,EMP-034,08/07/2025,Dolor lumbar frecuente,Movimiento repetitivo,N/A,1
+ENC-0349,EMP-087,2025-08-20,Dolor lumbar frecuente,Ninguno,Alto,1
+ENC-0350,EMP-079,22/01/2026,Cansancio visual,Movimiento repetitivo,8,NO
